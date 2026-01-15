@@ -1,6 +1,3 @@
-# python-learning
-Claro 🙂
-Vou montar **uma lista progressiva de exercícios em Python**, pensada para quem está começando do zero e quer evoluir de forma sólida. A ideia é **praticar muito**, sem pular etapas.
 
 ---
 
